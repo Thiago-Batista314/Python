@@ -1,4 +1,3 @@
-
 def arithmetic_arranger(problems, show=False):
     import re
     first_line = ''
