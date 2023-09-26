@@ -2,25 +2,10 @@
 
 Welcome to my database studies repository! This is where I organize and document my journey in learning and exploring the world of databases.
 
-## Table of Contents
+These files and folders came from [FreeCodeCamp Course about scientific computing with python](https://www.freecodecamp.org/learn/scientific-computing-with-python/). This course is totally free.
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Database Technologies](#database-technologies)
-- [Projects](#projects)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
+The principal file, the file with my own codes, is SqLite.py. The files that starts with *test* are just a starting in databases' world and the *LMS* are about **Learning Management System**, i.e., techniques to increase velocity to the database, like databases design, one-to-many or many-to-many relathionships, etc.
 
-## Introduction
+The folders *geodata* and *pagerank* are made by [dr. Charles Severance](https://www.dr-chuck.com/)https://www.dr-chuck.com/), the teacher of the course.
 
-This repository serves as my personal space to track my progress, notes, and projects related to database management and development. I'm passionate about databases and hope to continuously improve my skills in this area.
-
-## Getting Started
-
-If you're new to this repository or want to explore database concepts, here are a few steps to get started:
-
-1. **Clone the Repository**: You can clone this repository to your local machine using Git.
-
-   ```bash
-   git clone https://github.com/Thiago-Batista314/Python/tree/main/Databases
+You can use all the files as you want. They don't have special license.
