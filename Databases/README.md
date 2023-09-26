@@ -6,6 +6,6 @@ These files and folders came from [FreeCodeCamp Course about scientific computin
 
 The principal file, the file with my own codes, is SqLite.py. The files that starts with *test* are just a starting in databases' world and the *LMS* are about **Learning Management System**, i.e., techniques to increase velocity to the database, like databases design, one-to-many or many-to-many relathionships, etc.
 
-The folders *geodata* and *pagerank* are made by [dr. Charles Severance](https://www.dr-chuck.com/)https://www.dr-chuck.com/), the teacher of the course.
+The folders *geodata* and *pagerank* are made by [dr. Charles Severance](https://www.dr-chuck.com/), the teacher of the course.
 
 You can use all the files as you want. They don't have special license.
